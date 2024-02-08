@@ -30,3 +30,4 @@ bin-release/
 .settings/
 .project
 *.fla
+*.swc
