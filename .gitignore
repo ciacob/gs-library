@@ -32,3 +32,6 @@ bin-release/
 *.fla
 *.swc
 *.swc
+
+/.vscode
+/asconfig.json
